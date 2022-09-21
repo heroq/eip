@@ -1,5 +1,7 @@
 ### Day-1
 
+[공부한 블로그](https://starrykss.tistory.com/1850)
+
 두 개 이상의 하드디스크를 병렬로 연결   
 - __RAID-0__
 
